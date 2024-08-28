@@ -1,3 +1,3 @@
 # graphene-test
-npm install
+npm install - 
 npm run serve
